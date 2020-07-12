@@ -1,0 +1,77 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#profile-photo {
+    width: auto;
+    height: 100%;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.primary-color {
+    background-color: rgb(42, 78, 94);
+}
+
+.secondary-color {
+    background-color: #1e262e;
+}
+
+p {
+    font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: black !important;
+}
+
+.icon {
+    padding-left: 25px;
+}
+
+.custom-title {
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: rgb(42, 78, 94);
+}
+
+.custom-subtitle {
+    font-size: 20px;
+    padding-bottom: 5px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+}
+
+.white-title {
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+
+.white-text {
+    color: white !important;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+}
+
+.footer-text {
+    margin: 0px;
+    padding: 15px 0; 
+}
+
+.card-img-top {
+    height: 225px;
+    width: 100%;
+    display: block;
+}
+
+#email h3 {
+    padding-top: 60px;
+}
+
+#email h4 {
+    padding-bottom: 60px;
+    margin-bottom: 0px;
+}
