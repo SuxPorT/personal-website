@@ -67,6 +67,20 @@ p {
     display: block;
 }
 
+#about-me p{
+    width: 75%;
+    margin: auto;
+    padding-top: 5px;
+}
+
+#about-me li {
+    font-size: 18px;
+    list-style: none;
+    width: 50%;
+    margin: auto;
+    text-align: left;
+}
+
 #email h3 {
     padding-top: 60px;
 }
