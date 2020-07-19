@@ -65,9 +65,10 @@ p {
     height: 225px;
     width: 100%;
     display: block;
+    border-bottom: 1px solid #AAA;
 }
 
-#about-me p{
+#about-me p {
     width: 75%;
     margin: auto;
     padding-top: 5px;
@@ -76,7 +77,7 @@ p {
 #about-me li {
     font-size: 18px;
     list-style: none;
-    width: 50%;
+    width: 60%;
     margin: auto;
     text-align: left;
 }
