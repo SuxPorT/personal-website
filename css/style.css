@@ -2,6 +2,11 @@ html {
     scroll-behavior: smooth;
 }
 
+a:hover {
+    text-decoration: none;
+    color: #0000FF;
+}
+
 #profile-photo {
     width: auto;
     height: 100%;
